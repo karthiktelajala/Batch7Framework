@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15526" started-at="2018-11-16T03:45:58Z" finished-at="2018-11-16T03:46:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15526" started-at="2018-11-16T03:45:58Z" finished-at="2018-11-16T03:46:13Z">
+      <class name="pageTests.HomePageTests">
+        <test-method status="PASS" signature="verifyAdminPage()[pri:0, instance:pageTests.HomePageTests@5442a311]" name="verifyAdminPage" duration-ms="15433" started-at="2018-11-16T09:15:58Z" finished-at="2018-11-16T09:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminPage -->
+      </class> <!-- pageTests.HomePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
